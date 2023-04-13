@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+  }
+  header {
+    margin: 0 auto;
+  }
+  header div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3a1b3f;
+    padding: 10px 100px;
+  }
+  h1 {
+    color: #fff;  
+  }
+  button {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    transition: 0.3s;
+  }
+  button:hover {
+    width: 170px;
+  }
+  
